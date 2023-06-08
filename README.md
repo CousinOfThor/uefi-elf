@@ -4,4 +4,4 @@ a makefile is provided: to compile it, you need clang and lld; to run it, you ne
 
 build it with `make`, run it with `make run`.
 
-tested under linux.
+tested under arch linux.
